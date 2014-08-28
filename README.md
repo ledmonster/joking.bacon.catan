@@ -11,6 +11,11 @@ npm install
 node catan.js
 ```
 
+Demo
+----
+
+* http://ledmonster.github.io/joking.bacon.catan/
+
 See Also
 --------
 

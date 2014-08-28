@@ -1,0 +1,16 @@
+{
+  "name": "bacon.matchers",
+  "version": "0.3.0",
+  "main": "bacon.matchers.js",
+  "homepage": "https://github.com/raimohanska/bacon.matchers",
+  "_release": "0.3.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.3.0",
+    "commit": "39610fc494a674f7786bc0bbfaba2cf644a8f3f8"
+  },
+  "_source": "git://github.com/raimohanska/bacon.matchers.git",
+  "_target": "~0.3.0",
+  "_originalSource": "bacon.matchers",
+  "_direct": true
+}

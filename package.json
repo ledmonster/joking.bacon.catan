@@ -1,0 +1,15 @@
+{
+    "name": "catan.js",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "git@bitbucket.org:junya/catan_js.git"
+    },
+    "devDependencies": {
+        "baconjs": "~0.7.22",
+        "bacon.matchers": "~0.3.0",
+        "chai": "~1.9.1",
+        "mocha": "~1.21.4",
+        "underscore": "~1.6.0"
+    }
+}
